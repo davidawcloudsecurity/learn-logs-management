@@ -71,3 +71,6 @@ Best Practices for AMS Team:
 7. Use log monitoring tools for proactive issue detection
 
 These logs are essential tools for maintaining system health, security, and performance in an AMS environment.
+
+### Resources
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc749408(v=ws.11)?redirectedfrom=MSDN
